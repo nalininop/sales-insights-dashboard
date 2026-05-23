@@ -14,7 +14,7 @@ The project uses a CSV dataset and transforms raw sales data into meaningful vis
 - Interactive Dashboard Visualization
 
 ## Tools & Technologies
-- Tableau / Excel / Google Sheets
+-  Excel / Google Sheets
 - CSV Dataset
 - Data Visualization Techniques
 
