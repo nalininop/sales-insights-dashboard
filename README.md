@@ -29,6 +29,7 @@ The dataset contains sales transaction records including:
 - Region
 - Order Date
 - Customer Information
+<img width="1007" height="518" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/0347a627-1746-452f-9aa6-26765dd925b3" />
 
 ## Conclusion
 This dashboard helps identify:
